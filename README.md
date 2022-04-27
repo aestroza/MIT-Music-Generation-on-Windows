@@ -3,7 +3,8 @@
 ![banner](https://user-images.githubusercontent.com/65049620/165581596-6c9c0d86-6973-4f0b-a2dc-3705be51c253.png)
 
 Repo adaptating the "Software Lab 1" of MIT course "MIT Deep Learning 6.S191"
-to run on windows.
+to run on windows. 
+I also used the first bit of the [Generate music with an RNN](https://www.tensorflow.org/tutorials/audio/music_generation) tutorial from TensorFlow
 
 ## Reason
 You can run Lab 1 fine on Colab, and if you have a Unix machine you can
