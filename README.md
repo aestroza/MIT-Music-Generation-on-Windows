@@ -33,7 +33,8 @@ Inside you'll find "Music_Generation_MIT_on_Windows.ipynb", to run this you have
 	- If you want more info about abcMIDI go to
 	- "https://ifdo.ca/~seymour/runabc/top.html"
 	
-7. Copy "abc2midi.exe" to the notebook folder
+7. Copy "abc2midi.exe" to the notebook folder 
+	- (It's alreasy there, but I thought you should know the source)
 
 8. Now you should be able to run the notebook 
 
