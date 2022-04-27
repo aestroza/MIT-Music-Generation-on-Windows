@@ -32,8 +32,10 @@ Inside you'll find "Music_Generation_MIT_on_Windows.ipynb", to run this you have
 "https://ifdo.ca/~seymour/runabc/abcmidi_win32.zip"
 	- If you want more info about abcMIDI go to
 	- "https://ifdo.ca/~seymour/runabc/top.html"
+	
+7. Copy "abc2midi.exe" to the notebook folder
 
-7. Now you should be able to run the notebook 
+8. Now you should be able to run the notebook 
 
 The main difference from the original project is the "abc2midiWin.bat" file, which originally was a bash file using abcMIDI to transform an abc file to midi and then to wav. Here I made the new file to do something similar but in batch, and we just go from an abc file to midi and then in the notebook we make audio form that midi file, and you can play it on your notebook :).
 
