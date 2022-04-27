@@ -1,4 +1,7 @@
 # MIT music generation on Windows
+
+![banner](https://user-images.githubusercontent.com/65049620/165581596-6c9c0d86-6973-4f0b-a2dc-3705be51c253.png)
+
 Repo adaptating the "Software Lab 1" of MIT course "MIT Deep Learning 6.S191"
 to run on windows.
 
