@@ -44,7 +44,7 @@ For some generated songs that I liked you can check the "worthy_songs" folder
 
 ## License
 
-All code in this repository is copyright 2022  [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/). All Rights Reserved.
+The code on this repository is based on the code from [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/). All Rights Reserved.
 
 Licensed under the MIT License.
 
